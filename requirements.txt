@@ -1,0 +1,7 @@
+robotframework
+robotframework-seleniumlibrary
+requests
+selenium
+pytest
+flask
+playwright
